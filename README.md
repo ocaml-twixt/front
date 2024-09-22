@@ -1,1 +1,1 @@
-# front
+# OCaml Twixt - Frontend
